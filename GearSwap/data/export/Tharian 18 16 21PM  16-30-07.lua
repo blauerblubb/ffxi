@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Malevolence", augments={'INT+10','Mag. Acc.+10','"Mag.Atk.Bns."+10','"Fast Cast"+5',}},
+    sub="Culminus",
+    ammo="Dosis Tathlum",
+    head={ name="Helios Band", augments={'Mag. Acc.+20 "Mag.Atk.Bns."+20','Magic crit. hit rate +7','Mag. crit. hit dmg. +7%',}},
+    body={ name="Amalric Doublet", augments={'MP+60','Mag. Acc.+15','"Mag.Atk.Bns."+15',}},
+    hands={ name="Helios Gloves", augments={'"Mag.Atk.Bns."+24','Magic crit. hit rate +6','Mag. crit. hit dmg. +8%',}},
+    legs={ name="Hagondes Pants +1", augments={'Phys. dmg. taken -3%','"Mag.Atk.Bns."+22',}},
+    feet={ name="Helios Boots", augments={'"Mag.Atk.Bns."+22','Magic crit. hit rate +6','Mag. crit. hit dmg. +8%',}},
+    neck="Sanctity Necklace",
+    waist="Eschan Stone",
+    left_ear="Friomisi Earring",
+    right_ear="Hecate's Earring",
+    left_ring="Acumen Ring",
+    right_ring="Strendu Ring",
+    back={ name="Sucellos's Cape", augments={'INT+20','Mag. Acc+20 /Mag. Dmg.+20','"Mag.Atk.Bns."+10',}},
+}

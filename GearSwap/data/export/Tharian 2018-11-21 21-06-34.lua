@@ -1,0 +1,15 @@
+sets.exported={
+    ammo="Chrono Bullet",
+    head="Meghanada Visor +1",
+    body="Nisroch Jerkin",
+    hands={ name="Adhemar Wristbands", augments={'AGI+10','Rng.Acc.+15','Rng.Atk.+15',}},
+    legs={ name="Herculean Trousers", augments={'Rng.Acc.+21 Rng.Atk.+21','Sklchn.dmg.+5%','AGI+14','Rng.Acc.+5','Rng.Atk.+15',}},
+    feet={ name="Adhe. Gamashes +1", augments={'HP+65','"Store TP"+7','"Snapshot"+10',}},
+    neck="Iskur Gorget",
+    waist="Yemaya Belt",
+    left_ear="Enervating Earring",
+    right_ear="Telos Earring",
+    left_ring="Dingir Ring",
+    right_ring="Ilabrat Ring",
+    back="Camulus's Mantle",
+}

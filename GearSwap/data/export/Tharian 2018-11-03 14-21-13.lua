@@ -1,0 +1,16 @@
+sets.exported={
+    main="Chango",
+    ammo="Ginsen",
+    head="Flam. Zucchetto +2",
+    body="Valorous Mail",
+    hands={ name="Valorous Mitts", augments={'Accuracy+29','Crit. hit damage +3%','CHR+15','Attack+12',}},
+    legs={ name="Odyssean Cuisses", augments={'Accuracy+18 Attack+18','Weapon skill damage +3%','Accuracy+11','Attack+4',}},
+    feet="Valorous Greaves",
+    neck="Ainia Collar",
+    waist="Windbuffet Belt +1",
+    left_ear="Brutal Earring",
+    right_ear="Cessance Earring",
+    left_ring="Hetairoi Ring",
+    right_ring="Warp Ring",
+    back="Bleating Mantle",
+}

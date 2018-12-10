@@ -1,0 +1,18 @@
+sets.exported={
+    main="Fettering Blade",
+    sub="Nusku Shield",
+    range="Fomalhaut",
+    ammo="Chrono Bullet",
+    head="Meghanada Visor +2",
+    body="Meg. Cuirie +2",
+    hands="Meg. Gloves +2",
+    legs={ name="Carmine Cuisses +1", augments={'Accuracy+20','Attack+12','"Dual Wield"+6',}},
+    feet="Meg. Jam. +2",
+    neck="Loricate Torque +1",
+    waist="Flume Belt",
+    left_ear="Colossus's Earring",
+    right_ear="Etiolation Earring",
+    left_ring="Defending Ring",
+    right_ring="Vocane Ring",
+    back={ name="Camulus's Mantle", augments={'DEX+20','Accuracy+20 Attack+20','Accuracy+10','"Snapshot"+10',}},
+}

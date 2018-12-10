@@ -1,0 +1,17 @@
+sets.exported={
+    main="Burtgang",
+    sub="Aegis",
+    ammo="Impatiens",
+    head={ name="Souv. Schaller +1", augments={'HP+105','VIT+12','Phys. dmg. taken -4',}},
+    body="Rev. Surcoat +3",
+    hands={ name="Souv. Handsch. +1", augments={'HP+65','Shield skill +15','Phys. dmg. taken -4',}},
+    legs={ name="Souveran Diechlings", augments={'HP+80','Enmity+7','Potency of "Cure" effect received +10%',}},
+    feet={ name="Souveran Schuhs +1", augments={'----------------',}},
+    neck="Bloodbead Gorget",
+    waist="Creed Baudrier",
+    left_ear="Odnowa Earring +1",
+    right_ear="Etiolation Earring",
+    left_ring="Praan Ring",
+    right_ring="Meridian Ring",
+    back="Moonbeam Cape",
+}

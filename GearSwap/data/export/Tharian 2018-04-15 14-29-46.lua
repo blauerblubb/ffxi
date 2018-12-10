@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Excalibur", augments={'DMG:+1',}},
+    sub="Sequence",
+    ammo="Vanir Battery",
+    head={ name="Viti. Chapeau +2", augments={'Enhances "Dia III" effect','Enhances "Slow II" effect',}},
+    body="Jhakri Robe +2",
+    hands="Atrophy Gloves +3",
+    legs="Jhakri Slops +2",
+    feet="Jhakri Pigaches +2",
+    neck="Fotia Gorget",
+    waist="Fotia Belt",
+    left_ear="Brutal Earring",
+    right_ear="Ishvara Earring",
+    left_ring="Apate Ring",
+    right_ring="Petrov Ring",
+    back={ name="Sucellos's Cape", augments={'DEX+20','Accuracy+20 Attack+20','"Store TP"+10',}},
+}

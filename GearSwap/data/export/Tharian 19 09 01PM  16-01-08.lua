@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Taming Sari", augments={'STR+10','DEX+10','DMG:+15','"Treasure Hunter"+1',}},
+    sub={ name="Malevolence", augments={'INT+10','Mag. Acc.+10','"Mag.Atk.Bns."+10','"Fast Cast"+5',}},
+    ammo="Ginsen",
+    head={ name="Adhemar Bonnet", augments={'DEX+10','AGI+10','Accuracy+15',}},
+    body={ name="Adhemar Jacket", augments={'DEX+10','AGI+10','Accuracy+15',}},
+    hands={ name="Plun. Armlets +1", augments={'Enhances "Perfect Dodge" effect',}},
+    legs="Meg. Chausses +1",
+    feet="Skulk. Poulaines",
+    neck="Defiant Collar",
+    waist="Windbuffet Belt +1",
+    left_ear="Digni. Earring",
+    right_ear="Cessance Earring",
+    left_ring="Petrov Ring",
+    right_ring="Epona's Ring",
+    back="Bleating Mantle",
+}

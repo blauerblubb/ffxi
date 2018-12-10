@@ -1,0 +1,17 @@
+sets.exported={
+    main="Tanmogayi +1",
+    sub={ name="Colada", augments={'Mag. Acc.+24','DEX+2','Accuracy+24','Attack+15','DMG:+13',}},
+    ammo="Honed Tathlum",
+    head={ name="Carmine Mask", augments={'Accuracy+15','Mag. Acc.+10','"Fast Cast"+3',}},
+    body={ name="Adhemar Jacket", augments={'DEX+10','AGI+10','Accuracy+15',}},
+    hands={ name="Leyline Gloves", augments={'Accuracy+14','Mag. Acc.+13','"Mag.Atk.Bns."+13','"Fast Cast"+2',}},
+    legs={ name="Carmine Cuisses", augments={'Accuracy+15','Attack+10','"Dual Wield"+5',}},
+    feet={ name="Herculean Boots", augments={'Accuracy+24 Attack+24','"Triple Atk."+3','DEX+5','Accuracy+5',}},
+    neck="Sanctity Necklace",
+    waist="Eschan Stone",
+    left_ear="Digni. Earring",
+    right_ear="Steelflash Earring",
+    left_ring="Mars's Ring",
+    right_ring="Rajas Ring",
+    back="Ground. Mantle +1",
+}

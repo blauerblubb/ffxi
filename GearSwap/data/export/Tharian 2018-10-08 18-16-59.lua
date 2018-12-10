@@ -1,0 +1,17 @@
+sets.exported={
+    main="Tizona",
+    sub="Almace",
+    ammo="Amar Cluster",
+    head={ name="Dampening Tam", augments={'DEX+10','Accuracy+15','Mag. Acc.+15','Quadruple Attack +3',}},
+    body="Abnoba Kaftan",
+    hands="Jhakri Cuffs +2",
+    legs={ name="Herculean Trousers", augments={'Accuracy+20 Attack+20','Crit.hit rate+5','Accuracy+11',}},
+    feet="Thereoid Greaves",
+    neck="Fotia Gorget",
+    waist="Fotia Belt",
+    left_ear={ name="Moonshade Earring", augments={'Attack+4','TP Bonus +250',}},
+    right_ear="Digni. Earring",
+    left_ring="Apate Ring",
+    right_ring="Warp Ring",
+    back={ name="Rosmerta's Cape", augments={'DEX+20','Accuracy+20 Attack+20','DEX+10','"Store TP"+10',}},
+}

@@ -1,0 +1,17 @@
+sets.exported={
+    main="Bolelabunga",
+    sub="Culminus",
+    ammo="Homiliary",
+    head={ name="Viti. Chapeau +1", augments={'Enhances "Dia III" effect','Enhances "Slow II" effect',}},
+    body={ name="Merlinic Jubbah", augments={'"Mag.Atk.Bns."+21','Mag. Acc.+21','Haste+3','Mag. Acc.+14 "Mag.Atk.Bns."+14',}},
+    hands="Serpentes Cuffs",
+    legs={ name="Carmine Cuisses", augments={'Accuracy+15','Attack+10','"Dual Wield"+5',}},
+    feet={ name="Merlinic Crackows", augments={'"Mag.Atk.Bns."+12','Crit.hit rate+1','"Refresh"+1','Mag. Acc.+6 "Mag.Atk.Bns."+6',}},
+    neck="Sanctity Necklace",
+    waist="Flume Belt",
+    left_ear="Etiolation Earring",
+    right_ear="Infused Earring",
+    left_ring="Sheltered Ring",
+    right_ring="Defending Ring",
+    back="Archon Cape",
+}

@@ -1,0 +1,16 @@
+sets.exported={
+    main="Chango",
+    ammo="Ginsen",
+    head="Flam. Zucchetto +2",
+    body="Valorous Mail",
+    hands="Sulev. Gauntlets +2",
+    legs={ name="Odyssean Cuisses", augments={'Accuracy+18 Attack+18','Weapon skill damage +3%','Accuracy+11','Attack+4',}},
+    feet="Valorous Greaves",
+    neck="Defiant Collar",
+    waist="Windbuffet Belt +1",
+    left_ear="Telos Earring",
+    right_ear="Cessance Earring",
+    left_ring="Hetairoi Ring",
+    right_ring="Apate Ring",
+    back="Bleating Mantle",
+}

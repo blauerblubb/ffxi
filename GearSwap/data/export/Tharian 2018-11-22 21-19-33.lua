@@ -1,0 +1,18 @@
+sets.exported={
+    main="Fettering Blade",
+    sub="Nusku Shield",
+    range="Fomalhaut",
+    ammo="Chrono Bullet",
+    head={ name="Herculean Helm", augments={'Accuracy+29','Weapon skill damage +1%','Attack+13',}},
+    body={ name="Herculean Vest", augments={'Accuracy+23','"Triple Atk."+2','AGI+6','Attack+10',}},
+    hands={ name="Adhemar Wristbands", augments={'AGI+10','Rng.Acc.+15','Rng.Atk.+15',}},
+    legs={ name="Herculean Trousers", augments={'Rng.Acc.+21 Rng.Atk.+21','Sklchn.dmg.+5%','AGI+14','Rng.Acc.+5','Rng.Atk.+15',}},
+    feet={ name="Herculean Boots", augments={'Accuracy+24 Attack+24','"Triple Atk."+3','DEX+5','Accuracy+5',}},
+    neck="Loricate Torque +1",
+    waist="Flume Belt",
+    left_ear="Colossus's Earring",
+    right_ear="Etiolation Earring",
+    left_ring="Defending Ring",
+    right_ring="Vocane Ring",
+    back="Moonbeam Cape",
+}

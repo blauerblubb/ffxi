@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Colada", augments={'"Mag.Atk.Bns."+22','Accuracy+24','Attack+2','DMG:+7',}},
+    sub={ name="Colada", augments={'"Mag.Atk.Bns."+21','VIT+9','Accuracy+24','Attack+8','DMG:+2',}},
+    ammo="Impatiens",
+    head={ name="Helios Band", augments={'Mag. Acc.+20 "Mag.Atk.Bns."+20','Magic crit. hit rate +7','Mag. crit. hit dmg. +7%',}},
+    body={ name="Adhemar Jacket", augments={'DEX+10','AGI+10','Accuracy+15',}},
+    hands={ name="Herculean Gloves", augments={'Accuracy+23 Attack+23','Crit. hit damage +3%','Accuracy+12','Attack+5',}},
+    legs={ name="Carmine Cuisses", augments={'Accuracy+15','Attack+10','"Dual Wield"+5',}},
+    feet={ name="Herculean Boots", augments={'Accuracy+24 Attack+24','"Triple Atk."+3','DEX+5','Accuracy+5',}},
+    neck="Sanctity Necklace",
+    waist="Flume Belt",
+    left_ear="Ethereal Earring",
+    right_ear="Loquac. Earring",
+    left_ring="Defending Ring",
+    right_ring="Paguroidea Ring",
+    back="Archon Cape",
+}

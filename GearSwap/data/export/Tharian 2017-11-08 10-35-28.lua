@@ -1,0 +1,17 @@
+sets.exported={
+    main="Sequence",
+    sub={ name="Colada", augments={'VIT+5','Accuracy+23','Attack+23','DMG:+15',}},
+    ammo="Amar Cluster",
+    head={ name="Dampening Tam", augments={'DEX+10','Accuracy+15','Mag. Acc.+15','Quadruple Attack +3',}},
+    body="Jhakri Robe +2",
+    hands="Serpentes Cuffs",
+    legs={ name="Carmine Cuisses", augments={'Accuracy+15','Attack+10','"Dual Wield"+5',}},
+    feet="Serpentes Sabots",
+    neck="Loricate Torque +1",
+    waist="Flume Belt",
+    left_ear="Eabani Earring",
+    right_ear="Infused Earring",
+    left_ring="Vocane Ring",
+    right_ring="Defending Ring",
+    back="Solemnity Cape",
+}

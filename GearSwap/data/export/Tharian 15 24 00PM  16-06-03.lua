@@ -1,0 +1,16 @@
+sets.exported={
+    main={ name="Colada", augments={'Mag. Acc.+24','DEX+2','Accuracy+24','Attack+15','DMG:+13',}},
+    sub={ name="Colada", augments={'Phys. dmg. taken -1%','VIT+5','Accuracy+20','Attack+25','DMG:+9',}},
+    ammo="Impatiens",
+    head={ name="Adhemar Bonnet", augments={'DEX+10','AGI+10','Accuracy+15',}},
+    body={ name="Adhemar Jacket", augments={'DEX+10','AGI+10','Accuracy+15',}},
+    hands={ name="Telchine Gloves", augments={'Enh. Mag. eff. dur. +10',}},
+    legs={ name="Carmine Cuisses", augments={'Accuracy+15','Attack+10','"Dual Wield"+5',}},
+    neck="Sanctity Necklace",
+    waist="Flume Belt",
+    left_ear="Ethereal Earring",
+    right_ear="Loquac. Earring",
+    left_ring="Defending Ring",
+    right_ring="Paguroidea Ring",
+    back="Archon Cape",
+}

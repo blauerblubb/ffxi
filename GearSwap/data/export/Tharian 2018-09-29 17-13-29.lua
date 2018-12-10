@@ -1,0 +1,17 @@
+sets.exported={
+    main="Tizona",
+    sub="Excalipoor II",
+    ammo="Ginsen",
+    head="Adhemar Bonnet +1",
+    body={ name="Adhemar Jacket +1", augments={'STR+12','DEX+12','Attack+20',}},
+    hands={ name="Herculean Gloves", augments={'Attack+29','"Triple Atk."+3','DEX+8',}},
+    legs={ name="Samnuha Tights", augments={'STR+10','DEX+10','"Dbl.Atk."+3','"Triple Atk."+3',}},
+    feet={ name="Herculean Boots", augments={'Accuracy+24 Attack+24','"Triple Atk."+3','DEX+5','Accuracy+5',}},
+    neck="Ainia Collar",
+    waist="Windbuffet Belt +1",
+    left_ear="Telos Earring",
+    right_ear="Suppanomimi",
+    left_ring="Hetairoi Ring",
+    right_ring="Epona's Ring",
+    back={ name="Rosmerta's Cape", augments={'DEX+20','Accuracy+20 Attack+20','DEX+10','"Store TP"+10',}},
+}

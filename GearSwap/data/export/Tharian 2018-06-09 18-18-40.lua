@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Colada", augments={'Enh. Mag. eff. dur. +4','MND+8','"Mag.Atk.Bns."+12',}},
+    sub="Genmei Shield",
+    ammo="Homiliary",
+    head={ name="Viti. Chapeau +2", augments={'Enhances "Dia III" effect','Enhances "Slow II" effect',}},
+    body="Jhakri Robe +2",
+    hands="Serpentes Cuffs",
+    legs={ name="Carmine Cuisses +1", augments={'Accuracy+20','Attack+12','"Dual Wield"+6',}},
+    feet={ name="Merlinic Crackows", augments={'"Mag.Atk.Bns."+12','Crit.hit rate+1','"Refresh"+1','Mag. Acc.+6 "Mag.Atk.Bns."+6',}},
+    neck="Sanctity Necklace",
+    waist="Flume Belt",
+    left_ear="Etiolation Earring",
+    right_ear="Infused Earring",
+    left_ring="Sheltered Ring",
+    right_ring="Defending Ring",
+    back="Archon Cape",
+}

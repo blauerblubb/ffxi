@@ -1,0 +1,23 @@
+//exec GEO.txt
+
+//Spells:
+bind %numpad1 send @GEO /assist <p1>;wait 2;/ma "Dia 2" <t>
+bind %numpad2 send @GEO /ma "Dia 2" <bt>
+bind %numpad3 send @GEO /ma "Distract" <t>
+
+
+//Entrust:
+bind %numpad6 send @GEO gs c entrust_cast
+
+
+//Modes:
+bind %numpad7 send @GEO gs c auto_action
+bind %numpad8 send @GEO gs c geo_mode
+bind %numpad9 send @GEO gs c entrust_mode
+
+
+//JA:
+bind %numpad* send @GEO gs c bolster
+//bind %numpad* send @GEO /echo Test
+bind %numpad- send @GEO gs c blaze
+bind %numpad+ send @GEO /ja "Full Circle" <me>

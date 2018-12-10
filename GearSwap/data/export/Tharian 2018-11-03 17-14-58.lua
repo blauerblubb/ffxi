@@ -1,0 +1,17 @@
+sets.exported={
+    main="Chango",
+    sub="Utu Grip",
+    ammo="Ginsen",
+    head="Flam. Zucchetto +2",
+    body={ name="Valorous Mail", augments={'Attack+7','"Dbl.Atk."+4',}},
+    hands="Sulev. Gauntlets +2",
+    legs={ name="Odyssean Cuisses", augments={'"Dbl.Atk."+4','STR+2','Accuracy+13','Attack+4',}},
+    feet={ name="Valorous Greaves", augments={'Attack+11','"Dbl.Atk."+4','DEX+3','Accuracy+10',}},
+    neck="Defiant Collar",
+    waist="Windbuffet Belt +1",
+    left_ear="Telos Earring",
+    right_ear="Cessance Earring",
+    left_ring="Hetairoi Ring",
+    right_ring="Apate Ring",
+    back={ name="Mecisto. Mantle", augments={'Cap. Point+48%','INT+2','"Mag.Atk.Bns."+1','DEF+4',}},
+}

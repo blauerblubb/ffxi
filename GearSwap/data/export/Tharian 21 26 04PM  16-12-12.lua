@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Lathi", augments={'INT+15','"Mag.Atk.Bns."+15','Mag. Acc.+15',}},
+    sub="Niobid Strap",
+    ammo="Pemphredo Tathlum",
+    head="Befouled Crown",
+    body="Spae. Coat +1",
+    hands={ name="Amalric Gages", augments={'INT+10','Mag. Acc.+15','"Mag.Atk.Bns."+15',}},
+    legs={ name="Merlinic Shalwar", augments={'Mag. Acc.+25 "Mag.Atk.Bns."+25','Magic burst mdg.+8%','AGI+1','Mag. Acc.+7',}},
+    feet="Jhakri Pigaches +1",
+    neck="Mizu. Kubikazari",
+    waist="Hachirin-no-Obi",
+    left_ear="Hecate's Earring",
+    right_ear="Friomisi Earring",
+    left_ring="Mujin Band",
+    right_ring="Locus Ring",
+    back={ name="Mecisto. Mantle", augments={'Cap. Point+48%','INT+2','"Mag.Atk.Bns."+1','DEF+4',}},
+}

@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Aettir", augments={'Accuracy+70','Mag. Evasion+50','Weapon skill damage +10%',}},
+    sub={ name="Colada", augments={'MND+2','Mag. Acc.+25','"Mag.Atk.Bns."+23','DMG:+13',}},
+    ammo="Amar Cluster",
+    head={ name="Dampening Tam", augments={'DEX+10','Accuracy+15','Mag. Acc.+15','Quadruple Attack +3',}},
+    body={ name="Taeon Tabard", augments={'Phalanx +3',}},
+    hands={ name="Taeon Gloves", augments={'Attack+25','Crit.hit rate+3','Phalanx +3',}},
+    legs={ name="Taeon Tights", augments={'Accuracy+17','"Snapshot"+3','Phalanx +3',}},
+    feet={ name="Taeon Boots", augments={'Rng.Atk.+24','Haste+1','Phalanx +3',}},
+    neck="Loricate Torque +1",
+    waist="Flume Belt",
+    left_ear="Etiolation Earring",
+    right_ear="Infused Earring",
+    left_ring="Kishar Ring",
+    right_ring="Warp Ring",
+    back={ name="Ogma's cape", augments={'DEX+20','Accuracy+20 Attack+20','"Dbl.Atk."+10',}},
+}

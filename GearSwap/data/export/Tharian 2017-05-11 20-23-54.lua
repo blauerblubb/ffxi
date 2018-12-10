@@ -1,0 +1,17 @@
+sets.exported={
+    main="Burtgang",
+    sub="Aegis",
+    ammo="Vanir Battery",
+    head={ name="Carmine Mask", augments={'Accuracy+15','Mag. Acc.+10','"Fast Cast"+3',}},
+    body="Rev. Surcoat +3",
+    hands="Sulev. Gauntlets +2",
+    legs="Sulevi. Cuisses +1",
+    feet="Thereoid Greaves",
+    neck="Fotia Gorget",
+    waist="Fotia Belt",
+    left_ear="Brutal Earring",
+    right_ear="Cessance Earring",
+    left_ring="Petrov Ring",
+    right_ring="Apate Ring",
+    back="Ground. Mantle +1",
+}
